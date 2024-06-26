@@ -11,3 +11,6 @@ var url = {
 
 url.getUrl();
 console.log(url);
+
+var nama = "Efendi";
+console.log(nama);
